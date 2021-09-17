@@ -1,3 +1,10 @@
+"""
+UEA - Universidade do Estado do Amazonas
+EST - Escola Superior de Tecnologia
+Computação Gráfica e Processamento digital de Imagens
+E-mail: ldsllm.eng@uea.edu.br
+"""
+
 import cv2
 import numpy as np
 import math
